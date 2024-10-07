@@ -1,6 +1,6 @@
 baseURL               = "https://www.nwnu.org.cn/"
 languageCode          = "zh-CN"
-title                 = "sunshine的导航"
+title                 = "西北师范大学公益导航 | NWNU的好导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
