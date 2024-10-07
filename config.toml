@@ -10,12 +10,12 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params]
     author        = "LXK"
-    description   = "sunshine | Hugo WebStack BY ikirito"
+    description   = "LXK | Hugo WebStack BY XXX"
     upload        = "https://wj.qq.com/s2/12053817/3264/"  # 左侧导航栏的"网站提交"
     about         = "https://www.nwnu.org.cn/"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://www.nwnu.org.cn/"  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "nwnu 稍等片刻"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "西北师范大学公益导航 稍等片刻"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -23,8 +23,8 @@ publishDir            = "docs"					# 站点静态文件保存目录
     yiyan         = true                         		# 默认启用一言服务
 
 [params.seo]    
-    baiduhmid     = 'efccc04cb44fc49faddac5876180b369'		# 百度统计 hm.src 的 ID
-    baiduSiteVer  = 'codeva-cCAOSG8MBO'				# 百度HTML标签验证(baidu-site-verification)
+    baiduhmid     = ''		# 百度统计 hm.src 的 ID
+    baiduSiteVer  = ''				# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
 
@@ -44,4 +44,4 @@ publishDir            = "docs"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：mail@xazz.top <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [ikirito-Github](https://github.com/i-kirito) | [备案号](https://nav.xazz.top)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：lixiankun001@163.com <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 - {year} By [WebStack-Hugo](https://www.nwnu.org.cn/) | [2024](https://www.nwnu.org.cn/) | [备案号](https://www.nwnu.org.cn/)<br/>'
