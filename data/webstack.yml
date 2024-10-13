@@ -273,22 +273,7 @@
           logo: nivod.ico
           url: https://www.nivod4.tv/
           description: 快速更新免费电视电影
-        - title: 動畫線上看
-          logo: 动漫.webp
-          url: https://anime1.me/
-          description: 上百部動畫在綫免費看~
-        - title: H动漫
-          logo: H动漫.jpg
-          url: https://hanime1.me/
-          description: 偷偷看 别被家长发现了
-        - title: 禁漫天堂
-          logo: jinman.ico
-          url: https://18comic.vip/
-          description: 日韩漫本子聚集地
-        - title: 巴卡漫画
-          logo: baka.png
-          url: https://bakamh.com/
-          description: bakamh巴卡漫画 韩漫
+
 
     - term: 游戏模组
       links:
