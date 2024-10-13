@@ -751,37 +751,3 @@
           url: https://booltool.boolv.tech/
           logo: booltool.ico
           description: 智能处理图像/视频处理
-
-- taxonomy: Docker
-  icon: fab fa-docker fa-lg
-  list:
-    - term: Docker
-      links:
-        - title: 恩山论坛
-          url: https://www.right.com.cn/forum/
-          logo: enshan.ico
-          description: 中文IT技术交流社区
-        - title: 软路由固件
-          url: https://supes.top
-          logo: gujian.ico
-          description: OpenWrt可刷docker定制固件
-        - title: 骷髅头固件
-          url: https://github.com/DHDAXCW/NanoPi-R2S-rk3328
-          logo: kuloutou.ico
-          description: 推荐使用骷髅头固件刷docker。R2s可用
-        - title: docker加速
-          url: https://dockerproxy.com/
-          logo: docker加速.ico
-          description: 解决无法拉取docker镜像问题
-        - title: dockerhub
-          url: https://hub.docker.com/
-          logo: dockerhub.ico
-          description: docker镜像拉取网址
-        - title: 青龙面板
-          url: https://hub.docker.com/r/whyour/qinglong
-          logo: qinglong.ico
-          description: docker部署青龙面板
-        - title: Halo博客
-          url: https://hub.docker.com/r/halohub/halo
-          logo: halo.ico
-          description: halo博客，强大的前后端结合
